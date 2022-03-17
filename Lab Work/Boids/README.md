@@ -1,3 +1,3 @@
 * During this lab, I mainly creat new class called Hunter,which is given the same movement
-* the give Hunter a new new separation function, makes them to avid hunter
-* finally change the colour and size of the circle
+* the give boid a new separation function, makes them to avoid hunter
+* finally change the colour and size of both class
