@@ -7,4 +7,4 @@
 * I use perlin noise to creat mesh,and circle,then I use sound to control the noise and circle, let them leap with the music.just like we are on the way to go to travel on a nice day!
 * accually it still have some little prolem need to be develop,like color.
 ## Outcome
-[![Watch the video](https://github.com/FengLinLi2010/Coding-Two-Advanced-Frameworks/blob/main/Final%20Work/music_interactive.mp4g)](https://github.com/FengLinLi2010/Coding-Two-Advanced-Frameworks/blob/main/Final%20Work/music_interactive.mp4)
+[![Watch the video](https://github.com/FengLinLi2010/Coding-Two-Advanced-Frameworks/blob/main/Final%20Work/imag.png)](https://github.com/FengLinLi2010/Coding-Two-Advanced-Frameworks/blob/main/Final%20Work/music_interactive.mp4)
